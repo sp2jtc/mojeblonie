@@ -1,1 +1,61 @@
+Order Allow,Deny
+Allow from all
+# HTTP spam sources identified by https://github.com/sp2jtc/mojeblonie/.
+# Generated 2022-04-03 12:23:01
 
+Deny From 1.12.0.0/14
+Deny From 5.188.62.0/24
+Deny From 14.16.0.0/12
+Deny From 20.33.0.0/16
+Deny From 20.34.0.0/15
+Deny From 20.36.0.0/14
+Deny From 20.40.0.0/13
+Deny From 20.48.0.0/12
+Deny From 20.64.0.0/10
+Deny From 20.128.0.0/16
+Deny From 20.192.0.0/10
+Deny From 23.250.0.0/17
+Deny From 31.177.92.0/22
+Deny From 38.0.0.0/8
+Deny From 45.10.166.0/24
+Deny From 47.96.0.0/15
+Deny From 51.12.0.0/15
+
+Deny From 194.38.22.0/24
+Deny From 91.193.234.0/24
+Deny From 65.108.0.0/15
+Deny From 135.181.0.0/16
+Deny From 2a09:8700:1::/48
+Deny From 194.67.192.0/19
+Deny From 87.229.23.0/24
+Deny From 173.249.0.0/18
+Deny From 185.119.81.0/24
+Deny From 178.22.173.0/24
+Deny From 113.161.64.0/19
+Deny From 220.255.64.0/18
+Deny From 173.212.192.0/18
+Deny From 195.2.76.0/24
+Deny From 162.144.0.0/16
+Deny From 193.57.40.0/24
+Deny From 155.133.140.0/22
+Deny From 95.217.0.0/16
+Deny From 150.95.112.0/21
+Deny From 85.202.169.0/24
+Deny From 178.32.0.0/15
+Deny From 95.46.176.0/21
+Deny From 185.182.204.0/22
+Deny From 121.128.0.0/11
+Deny From 150.95.104.0/21
+Deny From 88.87.192.0/19
+Deny From 193.203.8.0/23
+Deny From 107.190.128.0/20
+Deny From 95.216.0.0/16
+Deny From 147.78.47.0/24
+Deny From 101.32.0.0/16
+Deny From 194.104.10.0/24
+Deny From 178.239.160.0/20
+Deny From 68.65.120.0/22
+Deny From 198.251.64.0/20
+Deny From 138.68.0.0/16
+Deny From 167.71.0.0/16
+Deny From 69.197.128.0/18
